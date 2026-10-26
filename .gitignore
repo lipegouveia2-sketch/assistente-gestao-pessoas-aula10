@@ -1,0 +1,11 @@
+# Segredos e ambiente local
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+
+# Arquivos gerados ao rodar o exercício
+saidas/*
+!saidas/.gitkeep
